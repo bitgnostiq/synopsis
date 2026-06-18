@@ -1,0 +1,19 @@
+[package]
+name = "synopsis"
+version = "0.1.0"
+edition = "2024"
+
+authors = ["Bitgnostiq <hello@>bitgnostiq.dev"]
+
+
+
+license = "MIT"
+repository = "https://github.com/bitgnostiq/synopsis"
+
+[dependencies]
+
+
+
+[lib]
+name = "synopsis"
+path = "src/lib.rs"
